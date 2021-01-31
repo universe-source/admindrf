@@ -1,0 +1,9 @@
+# DJANGO
+Django==3.1.5
+djangorestframework==3.12.2
+
+# DATABASE
+PyMySQL==1.0.2
+
+# template
+django-simpleui==2021.2
