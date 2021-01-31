@@ -9,7 +9,9 @@ var Lanuages = {
     "Servers": "服务器",
     "Application information": "应用信息",
     "Home page": "主页",
+    "admin Page": "博客后台",
     "Report issue": "报告问题",
+    "Blog Page": "主页",
 
     "Select": "选择",
     "Selected": "已选择",

@@ -593,9 +593,9 @@
             report: function (url) {
                 if (!url) {
                     if (document.querySelector('html').lang) {
-                        url = 'https://simpleui.88cto.com';
+                        url = 'https://unusebamboo.top/';
                     } else {
-                        url = 'https://github.com/newpanjing/simpleui/issues';
+                        url = 'https://github.com/unlessbamboo/';
                     }
                 }
                 window.open(url);

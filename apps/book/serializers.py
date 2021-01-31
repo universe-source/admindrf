@@ -25,7 +25,7 @@ class BookLabelSerializer(serializers.ModelSerializer):
         """
         model = BookLabel 
         fields = ('id', 'name', 'alias', 'description')
-        exclude = ('created',)
+        #  exclude = ('created',)
 
 
 class BookSerializer(serializers.Serializer):

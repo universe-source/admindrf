@@ -44,6 +44,23 @@ SIMPLEUI_CONFIG = {
                     'url': 'http://fanyi.youdao.com/'
                 },
             ],
+        },
+        {
+            'name': '书籍',
+            'app': 'book',
+            'icon': 'fas fa-book',
+            'models': [
+                {
+                    'name': '分类',
+                    'icon': 'far fa-bookmark',
+                    'url': 'booklabel/',
+                },
+                {
+                    'name': '书籍',
+                    'icon': 'fas fa-book',
+                    'url': 'book/',
+                },
+            ]
         }
     ]
 }
