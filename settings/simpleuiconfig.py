@@ -1,7 +1,6 @@
 """
 SimpleUI 配置
 """
-import time
 
 
 SIMPLEUI_CONFIG = {
@@ -11,7 +10,7 @@ SIMPLEUI_CONFIG = {
     #  'menu_display': ['权限认证',],
     # 3 设置是否开启动态菜单, 默认为False. 如果开启, 则会在每次用户登陆时动态展示菜单内容
     'dynamic': True,
-    'menus': [        
+    'menus': [
         {
             'app': 'auth',
             'name': '权限认证',
