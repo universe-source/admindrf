@@ -1,10 +1,12 @@
-# DJANGO
-Django==3.1.5
-djangorestframework==3.12.2
+# Template(pip install git+git://github.com/sshwsfc/xadmin.git)
+
+# Django
+django-crispy-forms==1.6.0
+djangorestframework==3.9.4
+docutils==0.16
 
 # DATABASE
-PyMySQL==1.0.2
-cryptography==3.3.1
+PyMySQL==0.10.1
 
-# template
-django-simpleui==2021.2
+# DOC
+docutils==0.16

@@ -1,3 +1,4 @@
+# coding:utf8
 """
 利用 ModelAdmin 来注册可以在管理界面编辑的模型
 """

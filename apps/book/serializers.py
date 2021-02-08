@@ -1,3 +1,4 @@
+# coding:utf8
 from rest_framework import serializers
 
 from utils.const_variable import ConstInt
